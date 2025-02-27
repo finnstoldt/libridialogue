@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "libridialogue"
+version = "0.1.0"
+description = ""
+authors = ["Finn Stoldt <f.stoldt@uni-luebeck.de>", "Jakob Behnke <j.behnke@uni-luebeck.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+torch = "^2.4.0"
+tqdm = "^4.66.5"
+jiwer = "^3.0.4"
+pandas = "^2.2.2"
+scipy = "^1.14.1"
+numpy = "2.0.0"
+pyroomacoustics = "^0.7.6"
+soundfile = "^0.12.1"
+python-dotenv = "^1.0.1"
+transformers = "^4.44.2"
+modelscope = {extras = ["science"], version = "^1.17.1"}
+rotary-embedding-torch = "^0.7.0"
+pydub = "^0.25.1"
+librosa = "^0.10.2.post1"
+torchmetrics = {extras = ["audio"], version = "^0.11.4"}
+torchaudio = "^2.4.1"
+optuna = "^4.0.0"
+cmaes = "^0.11.1"
+asteroid = "^0.7.0"
+datasets = "2.21.0"
+pyyaml = "^6.0.2"
+
+[tool.poetry.scripts]
+main = "libridialogue.__main__:run"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

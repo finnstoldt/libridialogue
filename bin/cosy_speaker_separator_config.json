@@ -1,0 +1,487 @@
+{
+  "compressor_parameters": [
+    {
+      "index": 0,
+      "name": "Style",
+      "value": 0.0,
+      "numSteps": 8
+    },
+    {
+      "index": 1,
+      "name": "Threshold",
+      "value": 0.925,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 2,
+      "name": "Ratio",
+      "value": 0.65,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 3,
+      "name": "Knee",
+      "value": 0.25,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 4,
+      "name": "Range",
+      "value": 1.0,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 5,
+      "name": "Attack",
+      "value": 0.1,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 6,
+      "name": "Release",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 7,
+      "name": "Auto Release",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 8,
+      "name": "Lookahead",
+      "value": 0.0,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 9,
+      "name": "Hold",
+      "value": 0.0,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 10,
+      "name": "Wet Gain",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 11,
+      "name": "Wet Pan",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 12,
+      "name": "Dry Gain",
+      "value": 0.0,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 13,
+      "name": "Dry Pan",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 14,
+      "name": "Auto Gain",
+      "value": 1.0,
+      "numSteps": 2
+    },
+    {
+      "index": 15,
+      "name": "Side Chain Expert Mode",
+      "value": 1,
+      "numSteps": 2
+    },
+    {
+      "index": 16,
+      "name": "Side Chain Input",
+      "value": 1,
+      "numSteps": 2
+    },
+    {
+      "index": 17,
+      "name": "Side Chain Level",
+      "value": 0.8250000000000001,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 18,
+      "name": "Stereo Link",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 19,
+      "name": "Stereo Link Mode",
+      "value": 0.0,
+      "numSteps": 4
+    },
+    {
+      "index": 20,
+      "name": "Side Chain Low Enabled",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 21,
+      "name": "Side Chain Low Frequency",
+      "value": 0.2329899966716766,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 22,
+      "name": "Side Chain Low Slope",
+      "value": 0.375,
+      "numSteps": 9
+    },
+    {
+      "index": 23,
+      "name": "Side Chain Mid Auto",
+      "value": 1.0,
+      "numSteps": 2
+    },
+    {
+      "index": 24,
+      "name": "Side Chain Mid Enabled",
+      "value": 1.0,
+      "numSteps": 2
+    },
+    {
+      "index": 25,
+      "name": "Side Chain Mid Frequency",
+      "value": 0.5663233399391174,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 26,
+      "name": "Side Chain Mid Gain",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 27,
+      "name": "Side Chain Mid Q",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 28,
+      "name": "Side Chain Mid Shape",
+      "value": 0.0,
+      "numSteps": 6
+    },
+    {
+      "index": 29,
+      "name": "Side Chain High Enabled",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 30,
+      "name": "Side Chain High Frequency",
+      "value": 0.7993133068084717,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 31,
+      "name": "Side Chain High Slope",
+      "value": 0.375,
+      "numSteps": 9
+    },
+    {
+      "index": 32,
+      "name": "Audition Side Chain",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 33,
+      "name": "Audition Triggering",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 34,
+      "name": "Mix",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 35,
+      "name": "Input Level",
+      "value": 0.65,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 36,
+      "name": "Input Pan",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 37,
+      "name": "Output Level",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 38,
+      "name": "Output Pan",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 39,
+      "name": "Bypass",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 40,
+      "name": "Oversampling",
+      "value": 0.0,
+      "numSteps": 3
+    },
+    {
+      "index": 41,
+      "name": "Lookahead Enabled",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 42,
+      "name": "Midi State",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 43,
+      "name": "Meter Scale",
+      "value": 0.75,
+      "numSteps": 5
+    },
+    {
+      "index": 44,
+      "name": "Display Enabled",
+      "value": 1.0,
+      "numSteps": 2
+    },
+    {
+      "index": 45,
+      "name": "Knee Display Enabled",
+      "value": 0.0,
+      "numSteps": 2
+    }
+  ],
+  "gate_parameters": [
+    {
+      "index": 0,
+      "name": "Threshold",
+      "value": 1.0,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 1,
+      "name": "Threshold (Upward)",
+      "value": 0.800000011920929,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 2,
+      "name": "Ratio",
+      "value": 0.42500000000000004,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 3,
+      "name": "Ratio (Upward)",
+      "value": 0.25,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 4,
+      "name": "Range",
+      "value": 1,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 5,
+      "name": "Style",
+      "value": 0.0,
+      "numSteps": 6
+    },
+    {
+      "index": 6,
+      "name": "Attack",
+      "value": 0.025,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 7,
+      "name": "Release",
+      "value": 0.925,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 8,
+      "name": "Hold",
+      "value": 0.8,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 9,
+      "name": "Knee",
+      "value": 0.0,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 10,
+      "name": "Lookahead",
+      "value": 0.0,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 11,
+      "name": "Lookahead Enabled",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 12,
+      "name": "Left Side Chain Level",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 13,
+      "name": "Left Side Chain Mix",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 14,
+      "name": "Right Side Chain Level",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 15,
+      "name": "Right Side Chain Mix",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 16,
+      "name": "Side Chain Input Signal",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 17,
+      "name": "Low Pass Frequency",
+      "value": 0.925,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 18,
+      "name": "High Pass Frequency",
+      "value": 0.125,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 19,
+      "name": "Audition Side Chain",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 20,
+      "name": "Wet Level",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 21,
+      "name": "Wet Pan",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 22,
+      "name": "Dry Level",
+      "value": 0.0,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 23,
+      "name": "Dry Pan",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 24,
+      "name": "Midi State",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 25,
+      "name": "Oversampling",
+      "value": 0.0,
+      "numSteps": 3
+    },
+    {
+      "index": 26,
+      "name": "Expert Mode",
+      "value": 1,
+      "numSteps": 2
+    },
+    {
+      "index": 27,
+      "name": "Channel Mode",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 28,
+      "name": "Input Level",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 29,
+      "name": "Input Pan",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 30,
+      "name": "Output Level",
+      "value": 0.4,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 31,
+      "name": "Output Pan",
+      "value": 0.5,
+      "numSteps": 2147483647
+    },
+    {
+      "index": 32,
+      "name": "Bypass",
+      "value": 0.0,
+      "numSteps": 2
+    },
+    {
+      "index": 33,
+      "name": "Interface: Show Display",
+      "value": 1.0,
+      "numSteps": 2
+    }
+  ],
+  "rms_threshold": 0.0014674892615884065
+}

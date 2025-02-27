@@ -1,0 +1,54 @@
+librispeech:
+  path: "datasets/LibriSpeech"
+  csv: "datasets/LibriSpeech/dataset.csv"
+
+random_seed: "<random_seed>"
+
+overwrite_generated_data: true
+
+separate:
+  cosy: false
+  mossformer2: false
+  convtasnet: false
+
+analyze:
+  clean: false
+  reverb_dual: false
+  cosy: false
+  mossformer2: false
+  convtasnet: false
+
+libridialogue:
+  size: 1000
+  path: "datasets/LibriDialogue"
+  separated_path: "datasets/LibriDialogue-Separated"
+  min_overlap: 1
+  max_overlap: 3
+  room:
+    min_temperature: 18
+    max_temperature: 30
+    min_humidity: 40
+    max_humidity: 80
+    min_x: 5
+    max_x: 10
+    xy_diff: 1
+    min_z: 2
+    max_z: 4
+    step_size_source: 0.2
+    rt60_tgt: 0.3
+    source_z:
+      - 1.5
+      - 1.6
+      - 1.7
+      - 1.8
+
+cosy:
+  compressor_plugin_file: "<path_to_compressor_plugin>"
+  gate_plugin_file: "<path_to_gate_plugin>"
+  config_file: "bin/config_files/config_fs8.json"
+  optimization_trials: 500
+  optimization_parameter_step_size: 0.025
+  optimization_initial_config_file: "bin/cosy_speaker_separator_config.json"
+
+analysis_csv: "datasets/analysis.csv"
+computation_times_csv: "datasets/computation_times.csv"
